@@ -136,6 +136,7 @@ module8/
 ├── fact_launches.csv                      # 578 launches (updated)
 ├── dim_launch_location.csv                # 11 locations
 ├── dim_launch_vehicle.csv                 # 12 vehicles
+├── DAX_MEASURES.md                        # DAX formulas for Power BI
 ├── IMPROVEMENT_ANALYSIS.md                # (existing)
 ├── README_METRICS.md                      # (existing)
 └── SESSION_CONTEXT.md                     # This file
@@ -193,6 +194,7 @@ pip3 install --break-system-packages python-pptx python-docx openpyxl pandas mat
 11. **Standardized date format** - All dates to YYYYMMDD
 12. **Added session context** - Created SESSION_CONTEXT.md file
 13. **Updated context maintenance** - Added critical reminder to update context file
+14. **Added DAX measures** - Created DAX_MEASURES.md with formulas for success/failure rates
 
 ---
 

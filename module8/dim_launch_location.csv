@@ -1,0 +1,12 @@
+location_id,location_name,site_code,latitude,longitude,state_region,country,timezone,operational_status,site_type
+1,Cape Canaveral SLC-40,SLC-40,28.5618,-80.5779,Florida,USA,UTC-5,Active,Land
+2,Kennedy Space Center LC-39A,LC-39A,28.6084,-80.6043,Florida,USA,UTC-5,Active,Land
+3,Vandenberg SFB SLC-4E,SLC-4E,34.6321,-120.6116,California,USA,UTC-8,Active,Land
+4,Kwajalein Atoll,KWAJ,9.0477,167.7431,Marshall Islands,Marshall Islands,UTC+12,Retired,Ocean Platform
+5,SpaceX South Texas (Starbase),STARBASE,25.9973,-97.1570,Texas,USA,UTC-6,Active,Land
+6,ASDS Just Read the Instructions (Pacific),JRTI-P,33.0000,-119.0000,Pacific Ocean,International Waters,UTC-8,Active,Ocean Platform
+7,ASDS Of Course I Still Love You (Atlantic),OCISLY-A,28.5000,-75.0000,Atlantic Ocean,International Waters,UTC-5,Active,Ocean Platform
+8,ASDS A Shortfall of Gravitas (Atlantic),ASOG,29.0000,-76.0000,Atlantic Ocean,International Waters,UTC-5,Active,Ocean Platform
+9,LZ-1 Cape Canaveral,LZ-1,28.4858,-80.5444,Florida,USA,UTC-5,Active,Landing Zone
+10,LZ-2 Cape Canaveral,LZ-2,28.4858,-80.5440,Florida,USA,UTC-5,Active,Landing Zone
+11,LZ-4 Vandenberg,LZ-4,34.6320,-120.6260,California,USA,UTC-8,Active,Landing Zone

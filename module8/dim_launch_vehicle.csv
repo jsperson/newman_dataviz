@@ -1,0 +1,12 @@
+vehicle_id,vehicle_name,vehicle_family,vehicle_version,height_meters,diameter_meters,mass_kg,stages,reusable,max_payload_leo_kg,max_payload_gto_kg,max_payload_mars_kg,first_flight_date,cost_per_launch_million,engine_type,propellant_type,boosters,manufacturer
+1,Falcon 1,Falcon,1.0,22.25,1.68,30146,2,FALSE,670,0,0,20060324,7,Merlin,RP-1/LOX,0,SpaceX
+2,Falcon 9 v1.0,Falcon,9v1.0,54.9,3.66,333400,2,FALSE,10450,4540,0,20100604,50,Merlin,RP-1/LOX,0,SpaceX
+3,Falcon 9 v1.1,Falcon,9v1.1,68.4,3.66,505846,2,TRUE,13150,4850,0,20130929,61,Merlin 1D,RP-1/LOX,0,SpaceX
+4,Falcon 9 FT,Falcon,9FT,70,3.66,549054,2,TRUE,22800,8300,4020,20151222,62,Merlin 1D,RP-1/LOX,0,SpaceX
+5,Falcon 9 Block 5,Falcon,9B5,70,3.66,549054,2,TRUE,22800,8300,4020,20180511,67,Merlin 1D+,RP-1/LOX,0,SpaceX
+6,Falcon Heavy,Falcon,Heavy,70,12.2,1420788,2,TRUE,63800,26700,16800,20180206,150,Merlin 1D+,RP-1/LOX,2,SpaceX
+7,Falcon Heavy Block 5,Falcon,HeavyB5,70,12.2,1420788,2,TRUE,63800,26700,16800,20190411,90,Merlin 1D+,RP-1/LOX,2,SpaceX
+8,Starship (Full Stack),Starship,SN,120,9,5000000,2,TRUE,150000,0,100000,20230420,10,Raptor 2,CH4/LOX,0,SpaceX
+9,Dragon 1,Dragon,1,6.1,3.7,4200,1,FALSE,3310,0,0,20101208,50,Draco,NTO/MMH,0,SpaceX
+10,Dragon 2 Cargo,Dragon,2C,8.1,3.7,9525,1,TRUE,6000,0,0,20191205,50,SuperDraco,NTO/MMH,0,SpaceX
+11,Dragon 2 Crew,Dragon,2Crew,8.1,3.7,12519,1,TRUE,0,0,0,20200530,220,SuperDraco,NTO/MMH,0,SpaceX

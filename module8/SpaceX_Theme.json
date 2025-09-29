@@ -1,0 +1,77 @@
+{
+  "name": "SpaceX",
+  "dataColors": [
+    "#005DAA",
+    "#22C55E",
+    "#8B5CF6",
+    "#7DD3FC",
+    "#FB923C",
+    "#475569",
+    "#EF4444",
+    "#292929"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#292929",
+  "tableAccent": "#005DAA",
+  "good": "#22C55E",
+  "neutral": "#FB923C",
+  "bad": "#EF4444",
+  "maximum": "#22C55E",
+  "center": "#FB923C",
+  "minimum": "#EF4444",
+  "null": "#475569",
+  "textClasses": {
+    "callout": {
+      "fontSize": 45,
+      "fontFace": "Segoe UI",
+      "color": "#005DAA"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#292929"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#292929"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#292929"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "color": {
+              "solid": {
+                "color": "#475569"
+              }
+            },
+            "show": false
+          }
+        ],
+        "general": [
+          {
+            "responsive": true,
+            "keepLayerOrder": true
+          }
+        ]
+      }
+    }
+  }
+}

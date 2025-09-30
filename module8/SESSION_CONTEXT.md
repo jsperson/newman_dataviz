@@ -195,6 +195,7 @@ pip3 install --break-system-packages python-pptx python-docx openpyxl pandas mat
 12. **Added session context** - Created SESSION_CONTEXT.md file
 13. **Updated context maintenance** - Added critical reminder to update context file
 14. **Added DAX measures** - Created DAX_MEASURES.md with formulas for success/failure rates
+15. **Added YoY formulas** - Added Year-over-Year change formulas and date table guidance
 
 ---
 

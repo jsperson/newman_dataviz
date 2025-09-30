@@ -136,6 +136,7 @@ module8/
 ├── fact_launches.csv                      # 578 launches (updated)
 ├── dim_launch_location.csv                # 11 locations
 ├── dim_launch_vehicle.csv                 # 12 vehicles
+├── DAX_MEASURES.md                        # DAX formulas for Power BI
 ├── IMPROVEMENT_ANALYSIS.md                # (existing)
 ├── README_METRICS.md                      # (existing)
 └── SESSION_CONTEXT.md                     # This file
@@ -191,6 +192,10 @@ pip3 install --break-system-packages python-pptx python-docx openpyxl pandas mat
 9. **Rebuilt dashboard** - New 3-page structure with Summary/Success/Improvement
 10. **Updated planned dates** - Realistic delays based on research
 11. **Standardized date format** - All dates to YYYYMMDD
+12. **Added session context** - Created SESSION_CONTEXT.md file
+13. **Updated context maintenance** - Added critical reminder to update context file
+14. **Added DAX measures** - Created DAX_MEASURES.md with formulas for success/failure rates
+15. **Added YoY formulas** - Added Year-over-Year change formulas and date table guidance
 
 ---
 
@@ -224,6 +229,24 @@ pip3 install --break-system-packages python-pptx python-docx openpyxl pandas mat
 ---
 
 ## Important Notes for Future Sessions
+
+### Session Context Maintenance
+**⚠️ CRITICAL: When making ANY changes to the project, update this SESSION_CONTEXT.md file.**
+
+This includes:
+- Adding new visualizations or charts
+- Modifying data files (CSV updates)
+- Changing dashboard structure or pages
+- Updating design elements or colors
+- Making data corrections or improvements
+- Adding/removing features
+- Any git commits to the project
+
+Update sections as needed:
+- Git Commit History - add new commits
+- Key Accomplishments - note new work
+- File Structure - if files added/removed
+- Last Updated date at bottom
 
 ### Data Principles
 - ✅ Every metric must be CSV-verifiable
